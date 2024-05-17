@@ -1,0 +1,15 @@
+{
+    "name": "professores/chat",
+    "autoload": {
+        "psr-4": {
+            "Professores\\Chat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "faustinopsy",
+            "email": "rodrigohipnose@gmail.com"
+        }
+    ],
+    "require": {}
+}
