@@ -1,4 +1,5 @@
 <?php
+namespace Chat;
 class Usuario implements Observador {
     private $nome;
 

@@ -1,4 +1,5 @@
 <?php
+namespace Chat;
 class SalaDeChat implements Sujeito {
     private $observadores = [];
     private $mensagem;

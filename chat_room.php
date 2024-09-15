@@ -1,9 +1,8 @@
 <?php
+namespace Chat;
+require_once 'vendor/autoload.php';
 
-require 'src/Observador.php';
-require 'src/Sujeito.php';
-require 'src/SalaDeChat.php';
-require 'src/Usuario.php';
+use Chat\Usuario;
 
 $salaDeChat = new SalaDeChat();
 

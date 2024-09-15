@@ -2,7 +2,7 @@
     "name": "professores/chat",
     "autoload": {
         "psr-4": {
-            "Professores\\Chat\\": "src/"
+            "Chat\\": "src/"
         }
     },
     "authors": [
